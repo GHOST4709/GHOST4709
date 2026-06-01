@@ -16,31 +16,8 @@ Building full-stack projects and interactive web components using Node.js and mo
 ![](https://github-profile-trophy.vercel.app/?username=GHOST4709&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<div>
-  <p align="center">
-    <svg width="100%" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <!-- Card Background -->
-      <rect width="100%" height="150" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
-      
-      <!-- Left Quote Mark -->
-      <text x="30" y="65" fill="#e2b714" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="bold" font-size="36">“</text>
-      
-      <!-- Quote Text -->
-      <text x="55" y="60" fill="#00f0ff" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-style="italic" font-size="18">
-        <tspan x="55" dy="0">An idiot admires complexity, a genius admires</tspan>
-        <tspan x="55" dy="32">simplicity.</tspan>
-      </text>
-      
-      <!-- Right Quote Mark -->
-      <text x="460" y="92" fill="#e2b714" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="bold" font-size="36">”</text>
-      
-      <!-- Attribution aligned to the right edge -->
-      <text x="95%" y="115" text-anchor="end" fill="#ff4a75" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="16">
-        - Terry A. Davis
-      </text>
-    </svg>
-  </p>
-</div>
+| <p align="center"><br> <font size="5" color="#e2b714">“</font><i><font size="4" color="#00f0ff">An idiot admires complexity, a genius admires simplicity.</font></i><font size="5" color="#e2b714">”</font><br><br><sub align="right"><font size="3" color="#ff4a75">- Terry A. Davis</font></sub><br></p> |
+| :--- |
 
 
 
