@@ -15,7 +15,7 @@ Building full-stack projects and interactive web components using Node.js and mo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GHOST4709&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 | <p align="center"><br> <font size="5" color="#e2b714">“</font><i><font size="4" color="#00f0ff">An idiot admires complexity, a genius admires simplicity.</font></i><font size="5" color="#e2b714">”</font><br><br><sub align="right"><font size="3" color="#ff4a75">- Terry A. Davis</font></sub><br></p> |
 | :--- |
 
