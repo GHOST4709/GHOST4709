@@ -17,6 +17,30 @@ Building full-stack projects and interactive web components using Node.js and mo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <svg width="600" height="140" viewBox="0 0 600 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Card Background -->
+    <rect width="600" height="140" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    
+    <!-- Left Quote Mark -->
+    <text x="30" y="60" fill="#e2b714" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="bold" font-size="36">“</text>
+    
+    <!-- Quote Text -->
+    <text x="50" y="55" fill="#00f0ff" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-style="italic" font-size="16">
+      <tspan x="50" dy="0">An idiot admires complexity, a genius admires</tspan>
+      <tspan x="50" dy="28">simplicity.</tspan>
+    </text>
+    
+    <!-- Right Quote Mark -->
+    <text x="350" y="85" fill="#e2b714" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="bold" font-size="36">”</text>
+    
+    <!-- Attribution -->
+    <text x="570" y="105" text-anchor="end" fill="#ff4a75" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14">
+      - Terry A. Davis
+    </text>
+  </svg>
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GHOST4709&limit=5&theme=gotham&combine_all_yearly_contributions=true)
